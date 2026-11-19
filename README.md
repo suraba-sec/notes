@@ -4,7 +4,7 @@ Personal knowledge base for programming, cloud infrastructure, DevOps, networkin
 ## Programming
 [Python]
 [Java]
-[SQL] (programming/SQL.md)
+[SQL](programming/SQL.md)
 
 ## Operating systems
 [Linux]
