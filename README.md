@@ -18,7 +18,7 @@ Personal knowledge base for programming, cloud infrastructure, DevOps, networkin
 [Terraform]
 
 ## DevOps
-[GIt]
+[GIt](devops/git.md)
 [Github Actions]
 [CI/CD]
 
