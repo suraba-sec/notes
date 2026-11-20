@@ -4,7 +4,7 @@ Personal knowledge base for programming, cloud infrastructure, DevOps, networkin
 ## Programming
 [Python]
 [Java]
-[SQL](programming/SQL.md)
+[SQL](programming/SQL.md) -- need to make some changes tomorrow + AWS and Git. If there's time, maybe Docker too.
 
 ## Operating systems
 [Linux]
